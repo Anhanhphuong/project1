@@ -1,0 +1,26 @@
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.exe.config
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.ADDCate.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.ADDstaff.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.DAO.ADDitem.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.DAO.BillDetail.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.DAO.donhang.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.Form1.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.FormOrder.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.FormTable.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.Món.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.Nhóm.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.Nv.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.Properties.Resources.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.QL.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.Report.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.UpdateCategory.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.UpdateItem.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.UpdateStaff.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.đối soát.resources
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.AssemblyInfo.cs
+C:\Users\pc\source\repos\TrungNguyenCoffee\TrungNguyenCoffee\obj\Debug\net48\TrungNguyenCoffee.csproj.CoreCompileInputs.cache
